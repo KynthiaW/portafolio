@@ -8,4 +8,4 @@
 
 ###Cintia Bertín
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/cintia-bert%C3%ADn-2b1013273/
