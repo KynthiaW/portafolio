@@ -1,6 +1,6 @@
 # Portafolio
 # Bienvenido/a a mi proyecto del curso de Alura Latam sobre HTML y CSS:
-![imagen](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+[![imagen](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)](http://127.0.0.1:5500/index.html)
 ## Herramientas utilizadas:
 *HTML
 *CSS
